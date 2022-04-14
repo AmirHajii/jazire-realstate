@@ -1,0 +1,7 @@
+App pages => index  , About 
+
+App blog => Blog , Blog Single
+
+App listing => Cat , Single , Search
+
+App Accounts => register , login , log out
